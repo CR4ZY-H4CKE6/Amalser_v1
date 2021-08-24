@@ -236,11 +236,11 @@
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
             "UPDATED": "*Updated 🧸✅  sanam set👍*",
             "UPDATED_LOCAL": "*✅ Successfully Updated 😍😍😍!*",
-            "AFTER_UPDATE": "*💘 Amalser Restarting  please wait 5mints*"
+            "AFTER_UPDATE": "*💘 Akshayer Restarting  please wait 5mints*"
         },
         "weather": {
             "WEATHER_DESC": "Shows the weather.",
-            "NEED_LOCATION": "* Please write a location ichiri ariya pedunna place parayane!*\n*Example:* ```.weather Kollam```",
+            "NEED_LOCATION": "* Please write a location ichiri ariya pedunna place parayane!*\n*Example:* ```.weather Kasargod```",
             "LOCATION": "Location",
             "LAT": "Lattitude",
             "LONG": "Longitude",
