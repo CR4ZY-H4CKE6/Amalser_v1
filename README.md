@@ -46,9 +46,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
   <div align="center">
     
   [![Amalser](<img src=https://www.linkpicture.com/q/IMG-20210629-WA0181.jpg>
- https://github.com/Amalser_v1 |  
-----|
-[Its_me_Amal](https://github.com/Amalser_v1)  |
+ https://github.com/CR4ZY-H4CKE6/Amalser_v1.git |  
+----|https://github.com/CR4ZY-H4CKE6/Amalser_v1.git
+[ITS_ME_AKSHAY]()  |
 Base, Bug Fixes, Modules | 
   
     
