@@ -1,4 +1,4 @@
-/* Copyright (C) 2021 Amal-ser.
+/* Copyright (C) 2021 Akshay-ser.
 re edited by afnanplk  
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
@@ -25,7 +25,7 @@ module.exports = {
     ANTİLİNK: process.env.ANTİ_LİNK === undefined ? 'false' : process.env.ANTİ_LİNK,
     AUTOBİO: process.env.AUTO_BİO === undefined ? 'false' : process.env.AUTO_BİO,
     THERI_KICK: process.env.THERI_KICK === undefined ? 'false' : process.env.THERI_KICK,
-    AFN: process.env.ALL_CAPTION === undefined ? 'public bot amal' : process.env.ALL_CAPTION,
+    AFN: process.env.ALL_CAPTION === undefined ? 'public bot akshay' : process.env.ALL_CAPTION,
     ALL_LINK_BAN: process.env.ALL_LINK_BAN === undefined ? 'false' : process.env.ALL_LINK_BAN,
     PLK: process.env.OWNER_NAME === undefined ? 'default' : process.env.OWNER_NAME,
     GANSTYLE: process.env.GAN_IMAGE === undefined ? 'https://i.hizliresim.com/loUtAb.jpg' : process.env.GAN_IMAGE,
@@ -36,7 +36,7 @@ module.exports = {
     ADDMSG: process.env.ADD_MESSAGE === undefined ? 'default' : process.env.ADD_MESSAGE,
     PLKS: process.env.THERI_LIST === undefined ? false : process.env.THERI_LIST,
     MUTEMSG: process.env.MUTE_MESSAGE === undefined ? 'default' : process.env.MUTE_MESSAGE,
-    BOTPLK: process.env.BOT_NAME === undefined ? '💘Aͣmͫaͣls͛eͤrͬ  Вⷡoͦᴛⷮ💘' : process.env.BOT_NAME,
+    BOTPLK: process.env.BOT_NAME === undefined ? '💘Akshayser botВⷡoͦᴛⷮ💘' : process.env.BOT_NAME,
     NOLOG: process.env.NO_LOG === undefined ? 'false' : process.env.NO_LOG,
     FULLEVA: process.env.FULL_EVA === undefined ? 'false' : process.env.FULL_EVA,
     STICKERP: process.env.STICKER_REPLY === undefined ? false : convertToBool(process.env.STICKER_REPLY),
