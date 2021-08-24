@@ -3,7 +3,7 @@
 ## ITS_ME_AKSHAY 
 
 <div align="center">
-  <img src=https://ibb.co/H788Pn9>
+  <img src=<a href='https://www.linkpicture.com/view.php?img=LPic612511f2ded6f701925416'><img src='https://www.linkpicture.com/q/20210511_152017.jpg' type='image'></a>>
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
